@@ -4,3 +4,17 @@ git diff: Shows the changes between the last commit and the current file.
 
 
 Test text
+
+
+
+this will be in the staging area,
+
+
+
+asdfasdfadsf
+
+
+
+
+
+asdfdsf
