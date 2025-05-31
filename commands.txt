@@ -10,11 +10,4 @@ Test text
 this will be in the staging area,
 
 
-
-asdfasdfadsf
-
-
-
-
-
-asdfdsf
+This commit was made at 9:00AM
